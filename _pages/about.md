@@ -24,10 +24,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a lifelong student 
+I am a part of the Responsible AI for Net Zero (RAINZ) Centre for Doctoral Training as a cohort 2 student. 
+I am currently completing my first year of taught studies at the University of Manchester where I have the privilege to learn lots about robotics.
+
 
 My name is Victoria McTrusty, 
 
-My name is Victoria McTrusty, I am a PhD student with the RAINZ CDT, I am currently completing my first year of taught studies at the University of Manchester where I have the privilege to learn lots about robotics. 
+My name is Victoria McTrusty, I am a PhD student with the RAINZ CDT,  
 
 Prior to this I graduated from the University of Edinburgh with a Masters of Informatics. 
