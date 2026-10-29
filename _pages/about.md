@@ -28,10 +28,12 @@ I am a part of the Responsible AI for Net Zero (RAINZ) Centre for Doctoral Train
 I am currently completing my first year of taught studies at the University of Manchester where I have the privilege to learn lots about robotics.
 
 Prior to this I graduated from the University of Edinburgh with a Masters of Informatics. 
-Throughout my time in academia my interests within Computer Science have been varied. I have developed a wide range of technical skills in Python, Java, JavaScript, the ROS middleware, further information can be found in my CV.
+Throughout my time in academia my interests within Computer Science have been varied. 
 
-My fourth year dissertation specialised in ethical computer vision
+As my fourth year dissertation specialised in ethical computer vision.
 My fifth year dissertation, however, specialised in Natural Language Processing and parsing legislation. 
+
+As a result, I have developed a wide range of technical skills in Python, Java, JavaScript, the ROS middleware, further information can be found in my CV.
 
 ## Research Interests
 
